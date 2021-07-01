@@ -8,8 +8,12 @@ function App() {
       <Navbar/>
       
       <div className="container">
+        <div className="d-flex justify-content-center">
+
+      <img src="\img\logo.png" alt="" className="col-12 col-sm-6 col-md-4 " />
+        </div>
       
-      <h1>Hola mundo</h1>
+      
       <FetchRM/>
 
       </div>

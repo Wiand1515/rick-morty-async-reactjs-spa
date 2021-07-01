@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <div className="container">
-        <img src="\img\logo.png" alt="" className="navbar-brand" />
+        
         <button
           className="navbar-toggler"
           type="button"
